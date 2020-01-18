@@ -12,7 +12,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install seleniu
 pip install selenium
 ```
 
-You also might need to chromedrivers permissions to 755 like this: 
+You also might need to change chromedrivers permissions to 755 like this: 
 
 ```bash
 chmod chromedriver 0755
